@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lr6_game", "lr6_game.csproj", "{ED89DF90-0526-4964-A950-C13CFF258D79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED89DF90-0526-4964-A950-C13CFF258D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED89DF90-0526-4964-A950-C13CFF258D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED89DF90-0526-4964-A950-C13CFF258D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED89DF90-0526-4964-A950-C13CFF258D79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
